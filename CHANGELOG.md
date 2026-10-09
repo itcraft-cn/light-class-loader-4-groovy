@@ -13,6 +13,7 @@
   - `class-hidden-4-groovy-new`：基于 `MethodHandles.Lookup#defineHiddenClass` 的 Groovy 6.x 类加载器
 - **chore**: 初始化仓库配置与 AI 指南文件（`73c3b32`）
 - **docs**: 建立根目录双语文档布局：README / CHANGELOG 中英互链
+- **docs**: 引入 [Apache License 2.0](LICENSE)，各 README 许可声明同步更新（`d9d6932`）
 
 ### 说明
 

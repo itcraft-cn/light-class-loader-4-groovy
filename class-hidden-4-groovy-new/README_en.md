@@ -63,4 +63,4 @@ src/test/java/cn/itcraft/ch4gn/groovy/GroovyHiddenClassLoaderTest.java  verifica
 
 ## License
 
-Internal project, do not distribute without permission.
+[Apache License 2.0](../LICENSE)

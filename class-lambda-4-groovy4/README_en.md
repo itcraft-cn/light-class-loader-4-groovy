@@ -54,4 +54,4 @@ mvn -q package
 
 ## License
 
-TBD (subject to the repository's actual declaration).
+[Apache License 2.0](../LICENSE)

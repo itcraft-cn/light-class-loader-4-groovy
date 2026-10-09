@@ -13,6 +13,7 @@ All notable changes to this repository are documented here. Format based on [Kee
   - `class-hidden-4-groovy-new`: a Groovy 6.x class loader based on `MethodHandles.Lookup#defineHiddenClass`
 - **chore**: Initialized repository configuration and AI guide files (`73c3b32`)
 - **docs**: Established the bilingual root documentation layout: README / CHANGELOG cross-linked in both languages
+- **docs**: Introduced [Apache License 2.0](LICENSE); license statements in all READMEs updated accordingly (`d9d6932`)
 
 ### Notes
 

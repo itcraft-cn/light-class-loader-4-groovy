@@ -54,4 +54,4 @@ mvn -q package
 
 ## 许可证
 
-待定（以仓库实际声明为准）。
+[Apache License 2.0](../LICENSE)

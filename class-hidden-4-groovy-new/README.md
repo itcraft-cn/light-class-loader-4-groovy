@@ -61,6 +61,6 @@ src/main/java/cn/itcraft/ch4gn/groovy/GroovyHiddenClassLoader.java  核心加载
 src/test/java/cn/itcraft/ch4gn/groovy/GroovyHiddenClassLoaderTest.java  用例验证
 ```
 
-## 许可
+## 许可证
 
-内部项目，未经许可请勿外发。
+[Apache License 2.0](../LICENSE)

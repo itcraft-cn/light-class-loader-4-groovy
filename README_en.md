@@ -32,4 +32,4 @@ cd ../class-hidden-4-groovy-new && mvn -q test
 
 ## License
 
-TBD (subject to the repository's actual declaration).
+[Apache License 2.0](LICENSE)
