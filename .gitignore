@@ -1,0 +1,16 @@
+.idea
+*.iml
+out
+target
+generated
+.vscode
+.gradle
+.semanticgraphs
+git-flow-plus.config
+*.class
+doc/*.jpg
+doc/*.png
+doc/*.svg
+.codebuddy_id
+MEMORY.md
+
